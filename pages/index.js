@@ -18,9 +18,9 @@ export default function Home() {
 
         <br/>
 
-        <h5 className="description">
+        <h3 className="description">
           Cecil Rodrigo
-        </h5>
+        </h3>
     
         <p className="description mt-0">
           <a href="mailto:gilmacottage@gmail.com">{'gilmacottage@gmail.com'}</a>
