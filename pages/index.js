@@ -23,15 +23,11 @@ export default function Home() {
         </h3>
     
         <p className="description mt-0">
-          <a href="mailto:gilmacottage@gmail.com">
-            gilmacottage@gmail.com
-          </a>
+          <a href={`mailto:gilmacottage@gmail.com`}>{`gilmacottage@gmail.com`}</a>
         </p>
 
         <p className="description mt-0">
-          <a href="tel:‭+94773619339">‭
-            +94 (77) 361 9339‬
-          </a>
+          <a href={`tel:+94773619339`}>{`+94 (77) 361 9339`}</a>
         </p>
       </main>
 
