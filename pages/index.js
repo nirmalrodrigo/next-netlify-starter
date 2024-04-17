@@ -22,11 +22,11 @@ export default function Home() {
           Cecil Rodrigo
         </h5>
     
-        <p className="description">
+        <p className="description mt-0">
           <a href="mailto:gilmacottage@gmail.com">{'gilmacottage@gmail.com'}</a>
         </p>
 
-        <p className="description">
+        <p className="description mt-0">
           <a href="tel:‭+94773619339">‭{'+94 (77) 361 9339‬'}</a>
         </p>
       </main>
