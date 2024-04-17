@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Gilma Cottage" />
+        <Header title="Gilma Cottage - Belihuloya" />
         <p className="description">
           Coming Soon
         </p>
@@ -23,11 +23,11 @@ export default function Home() {
         </h5>
     
         <p className="description">
-          <a href="mailto:gilmacottage@gmail.com">gilmacottage@gmail.com</a>
+          <a href="mailto:gilmacottage@gmail.com">{'gilmacottage@gmail.com'}</a>
         </p>
 
         <p className="description">
-          <a href="tel:‭+94773619339‬">‭+94 (77) 361 9339‬</a>
+          <a href="tel:‭+94773619339">‭{'+94 (77) 361 9339‬'}</a>
         </p>
       </main>
 
