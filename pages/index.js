@@ -11,9 +11,23 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Gilma Cottage" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Coming Soon
+        </p>
+
+        <br/>
+
+        <h5 className="description">
+          Cecil Rodrigo
+        </h5>
+    
+        <p className="description">
+          <a href="mailto:gilmacottage@gmail.com">gilmacottage@gmail.com</a>
+        </p>
+
+        <p className="description">
+          <a href="tel:‭+94773619339‬">‭+94 (77) 361 9339‬</a>
         </p>
       </main>
 
